@@ -1,0 +1,19 @@
+[ {
+  "isbn" : "4563S",
+  "titulo" : "Don Quijote",
+  "autor" : "Cervantes",
+  "numeroPaginas" : 2000,
+  "añoPublicacion" : "1754"
+}, {
+  "isbn" : "2341Z",
+  "titulo" : "El libro troll",
+  "autor" : "ElRubius",
+  "numeroPaginas" : 120,
+  "añoPublicacion" : "2015"
+}, {
+  "isbn" : "9989L",
+  "titulo" : "Martin Fierro",
+  "autor" : "Jose Hernandez",
+  "numeroPaginas" : 360,
+  "añoPublicacion" : "1890"
+} ]
